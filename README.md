@@ -30,6 +30,7 @@ _**Comment lancer le script ?**_
 _Si vous avez des questions hésitez pas à me contacter !_
 
 Serveur Discord : https://discord.gg/EusysCCy8p
+
 Discord : Zolkra#5689
 
 ============================================================================================
